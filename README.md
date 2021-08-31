@@ -1,6 +1,6 @@
 # JavaGames-and-LeaderBoards
 
-Simply git Clone and Run on Ecilipse or IDE of your choice. Built with Java 13.
+Simply git Clone and Run on Ecilipse or IDE of your choice. Built with Java 13. Better Image Quality in the PDF for project description
 
 ## General Description
 The project consists of 5 classes. A Player class, extended by a VIPPlayer class. A class for each game which contains their rules and choices, finally a main function that combines and test the project together.
