@@ -15,7 +15,7 @@ In the end we sort the collection of the players in ArrayList leaders and isplay
 
 ## Below is a brief description class components of the project(UML Diagram below):
 
-![image](https://user-images.githubusercontent.com/72608789/131517688-c6cf790c-9ed4-41ee-8634-fef035f140c3.png)
+![image](https://user-images.githubusercontent.com/72608789/131517688-c6cf790c-9ed4-41ee-8634-fef035f140c3.png){:height="400px" width="700px"}
 
 
 ### The Main Class:
